@@ -1,0 +1,36 @@
+/*vc pode adicionar mais de uma função para uma tag para não ficar repetindo, porem tem uma certa ordem{ 
+ EXEMPLO
+  background-image: url(./assets/bg-mobile.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+
+ background: color img no-repeat position/ siza
+ vc pode transformar tudo em uma linha só
+}*/
+
+/*CENTRALIZAR{
+ Para centralizar uma imagem ou alguma outra coisa use o MARGIN AUTO ele vai cetraliza apenas na laterais/ caso não funcione a tag DISPLAY
+}*/
+
+/*elementos inline não da para utilizar o MARGIN-AUTO*/
+
+/* algumas tags importantes{
+ ul É usado para criar listas 
+display block da toda largura possivel
+align-item coloca no centro horizontal
+justify-content coloca no centro vertical} */
+
+/* hover server para fazer uma auteração quando passar o mouse por cima do bottão*/
+
+/*para mover um elemento absoluto{
+   é preciso usar o z-index para sobrepor e transforme Y para a vertical e X para horizontal e colocar top 50% se for preciso alterar a dirção para cima
+  }
+*/
+
+  /*forma de fazer com a logica um sistema de ligar e desligar
+  if (html.classList.contains("light")) {
+    html.classList.remove("light")
+  } else {
+    html.classList.add("light")
+  }*/
